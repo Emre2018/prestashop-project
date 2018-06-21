@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23135" started-at="2018-06-20T22:46:35Z" finished-at="2018-06-20T22:46:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23135" started-at="2018-06-20T22:46:35Z" finished-at="2018-06-20T22:46:58Z">
+      <class name="com.prestashop.tests.PretaShopPositiveTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.prestashop.tests.PretaShopPositiveTest@7bdddfa4]" name="setUp" is-config="true" duration-ms="4717" started-at="2018-06-20T22:46:35Z" finished-at="2018-06-20T22:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="correctCredentialsTest()[pri:0, instance:com.prestashop.tests.PretaShopPositiveTest@7bdddfa4]" name="correctCredentialsTest" duration-ms="18121" started-at="2018-06-20T22:46:40Z" finished-at="2018-06-20T22:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctCredentialsTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.prestashop.tests.PretaShopPositiveTest@7bdddfa4]" name="tearDownMethod" is-config="true" duration-ms="250" started-at="2018-06-20T22:46:58Z" finished-at="2018-06-20T22:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.prestashop.tests.PretaShopPositiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
